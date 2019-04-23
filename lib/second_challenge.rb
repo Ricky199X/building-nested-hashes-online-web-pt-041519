@@ -7,50 +7,50 @@ def second_challenge
       },
       :matriarch => {
         name: "Lady Montague",
-        age: "54"
+        age: "
       },
       :hero => {
-        name: "Romeo",
-        age: "15",
-        status: "Alive"
+        name: ,
+        age: ,
+        status: 
       },
       :heros_friends => [
       {
-        name: "Benvolio", 
-        age: "17", 
-        attitude: "worried"
+        name: , 
+        age: , 
+        attitude: 
       },
       {
-        name: "Mercutio", 
-        age: "18", 
-        attitude: "hot-headed"
+        name: , 
+        age: , 
+        attitude: 
       }
     ]
   }, 
     :capulet => {
       :patriarch => {
-        name: "Lord Capulet",
-        age: "50"
+        name: ,
+        age: 
     },
       :matriarch => {
-        name: "Lady Capulet",
-        age: "51"
+        name: ,
+        age: 
     },
       :heroine => {
-      name: "Juliet",
-      age: "15",
-      status: "Alive"
+      name: ,
+      age: ,
+      status: 
     },
       :heroines_friends => [
       {
-        name: "Steven",
-        age: "30",
-        attitude: "confused"
+        name: ,
+        age: ,
+        attitude: 
       }, 
       { 
-        name: "Nurse",
-        age: "44",
-        attitude: "worried"
+        name: ,
+        age: ,
+        attitude: 
       }
     ]
   }
