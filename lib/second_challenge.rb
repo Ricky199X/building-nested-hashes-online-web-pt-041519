@@ -11,12 +11,7 @@ def second_challenge
          
       },
       :hero_friends => [
-      {
-        
-      },
-      {
-         
-      }
+     
     ]
   }, 
     :capulet => {
@@ -30,12 +25,7 @@ def second_challenge
        
     },
       :heroine_friends => [
-      {
-         
-      }, 
-      { 
-       
-      }
+     
     ]
   }
 }
