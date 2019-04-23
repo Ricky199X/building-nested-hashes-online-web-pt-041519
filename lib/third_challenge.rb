@@ -21,9 +21,9 @@ def third_challenge
         name: "Benvolio", 
       },
       {
-        name: "Mercutio", 
         age: "18", 
-        attitude: "hot-headed"
+        attitude: "hot-headed",
+        name: "Mercutio",
       }
     ]
   },
