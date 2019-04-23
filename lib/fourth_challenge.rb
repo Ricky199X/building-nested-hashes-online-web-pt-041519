@@ -42,7 +42,7 @@ def fourth_challenge
       age: "15",
       status: "alive"
     },
-    :heroines_friends => [
+    :heroine_friends => [
       {
         name: "Steven",
         age: "30",
