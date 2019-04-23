@@ -10,7 +10,7 @@ def second_challenge
       :hero => {
          
       },
-      :heros_friends => [
+      :hero_friends => [
       {
         
       },
